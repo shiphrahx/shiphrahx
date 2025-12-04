@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Cássia
 
-<!--
-**shiphrahx/shiphrahx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering leader who loves exploring how tech can solve real problems. My background is in software engineering, backend systems, DevOps, and building teams that deliver fast and well.
+I care about clean architecture, strong engineering fundamentals, and using AI to make teams faster, sharper, and more effective.
 
-Here are some ideas to get you started:
+I enjoy diving into new tools, experimenting with ideas, and shaping how teams work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 What I'm exploring
+- AI-assisted coding and tooling  
+- Event-driven and distributed system design  
+- High-performance backend architecture  
+- Developer tooling and workflow automation  
+- Observability, reliability, and technical quality
+- AI/ML developer tools  
+
+---
+
+## 🔗 Find me elsewhere
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiaalmeida/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shiphrah_)
+[![Website](https://img.shields.io/badge/Website-ff7ae6?style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=7a00ff)](https://www.cassia-almeida.com/)
+
