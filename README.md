@@ -1,8 +1,18 @@
-Exploring
-- AI-assisted coding and tooling  
-- Event-driven and distributed system design  
-- High-performance backend architecture  
-- Developer tooling and workflow automation  
-- Observability, reliability, and technical quality
-- AI/ML developer tools  
+### Hey, I'm Cassia! 👋
+
+✨ Passionate about creating content and tools that help other leaders grow
+
+### What I'm focused on 👩‍💻
+
+🛠️ Building tools and practical resources for engineering leaders <br>
+🤖 Exploring AI-assisted coding and AI-powered workflows <br>
+⚙️ Developer tooling & workflow automation <br>
+🏗️ High-performance backend architecture
+
+### Find me elsewhere 🌎
+
+💼 [LinkedIn](https://www.linkedin.com/in/cassiaalmeida/)  
+📝 [Medium](https://medium.com/@shiphrah_)  
+🐙 [GitHub](https://github.com/shiphrahx/)  
+🌐 [Website](https://www.cassia-almeida.com/)  
 
