@@ -1,6 +1,6 @@
 ### Hey, I'm Cassia! 👋
 
-✨ Passionate about creating content and tools that help other leaders grow
+✨ Passionate about creating content and sharing it online.
 
 ### What I'm focused on 👩‍💻
 
