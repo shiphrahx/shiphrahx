@@ -1,13 +1,13 @@
 ### Hey, I'm Cassia! 👋
 
-✨ Passionate about creating content and sharing it online.
+Passionate about creating content and sharing it online.
 
-### What I'm focused on 👩‍💻
+### What I'm focused on
 
-🛠️ Building tools and practical resources for engineering leaders <br>
-🤖 Exploring AI-assisted coding and AI-powered workflows <br>
-⚙️ Developer tooling & workflow automation <br>
-🏗️ High-performance backend architecture
+- Building tools and practical resources for engineering leaders <br>
+- Exploring AI-assisted coding and AI-powered workflows <br>
+- Developer tooling & workflow automation <br>
+- High-performance backend architecture
 
 ### Find me elsewhere 🌎
 
